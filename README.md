@@ -2,17 +2,17 @@
 
 Database Design and Implementation
 
-Project Overview
+## Project Overview
 This project focuses on designing and implementing a relational database for the Queens College semester course scheduling system. The database was designed using Entity Relationship Diagrams (ERDs), normalized to reduce redundancy, and implemented in SQL Server. The project includes stored procedures, workflow tracking, and query analysis to support design decisions.
 
-Project Goals
+## Project Goals:
 Design a normalized relational database for the Queens College semester course scheduling system
 Create an ERD representing entities, attributes, and relationships
 Implement the database in SQL Server with constraints and data integrity rules
 Use stored procedures and workflow tracking to support controlled data loading
 Validate design decisions using query propositions and analysis
 
-Group Members
+## Group Members
 Zarrin Cherry
 Azmain Abrar
 Haiyan Wei
@@ -21,19 +21,19 @@ Hali Ding
 Eusan Mahatab
 Shiwlee Rahman
 
-Group Discussion Link
+## Group Discussion Link
 (To be added)
 
-To-Do List
+## To-Do List
 (To be added)
 
-Gantt Chart
+## Gantt Chart
 (To be added)
 
-NACE Competencies
+## NACE Competencies
 (To be added)
 
-Tools and Technologies
+## Tools and Technologies
 | Tool / Technology   | Purpose                                    |
 | ------------------- | ------------------------------------------ |
 | SQL Server          | Database creation, storage, and management |
@@ -46,14 +46,14 @@ Tools and Technologies
 | Redgate SQL Compare | Compare and validate database schemas      |
 | GitHub              | Version control and team collaboration     |
 
-Backup File
+## Backup File
 A SQL Server .bak file is included as the final database backup
 The backup can be restored to recreate the complete database schema and data
 
-Presentations
+## Presentations
 Presentation 1: Database Design & ERD
 Presentation 2: Implementation, JDBC & Workflow
 Both presentations include voice annotation describing the project work and design decisions.
 
-Notes
+## Notes
 This project follows the specifications provided in the Project 3 instructions and demonstrates the complete database lifecycle from design to implementation and validation.
