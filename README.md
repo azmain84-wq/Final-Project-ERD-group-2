@@ -13,25 +13,25 @@ Use stored procedures and workflow tracking to support controlled data loading
 Validate design decisions using query propositions and analysis
 
 ## Group Members
-- ** Zarrin Cherry
-- ** Azmain Abrar
-- ** Haiyan Wei
-- ** Christopher Vidal
-- ** Hali Ding
-- ** Eusan Mahatab
-- ** Shiwlee Rahman
+- **Zarrin Cherry
+- **Azmain Abrar
+- **Haiyan Wei
+- **Christopher Vidal
+- **Hali Ding
+- **Eusan Mahatab
+- **Shiwlee Rahman
 
 ## Group Discussion Link
 (To be added)
 
 ## To-Do List
-(To be added)
+
 
 ## Gantt Chart
-(To be added)
+
 
 ## NACE Competencies
-(To be added)
+
 
 ## Tools and Technologies
 | Tool / Technology   | Purpose                                    |
