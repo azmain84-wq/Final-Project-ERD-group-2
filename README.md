@@ -22,16 +22,16 @@ Validate design decisions using query propositions and analysis
 - Shiwlee Rahman
 
 ## Group Discussion Link
-(To be added)
+- 
 
 ## To-Do List
-
+- 
 
 ## Gantt Chart
-
+- 
 
 ## NACE Competencies
-
+- 
 
 ## Tools and Technologies
 | Tool / Technology   | Purpose                                    |
