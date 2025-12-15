@@ -28,7 +28,7 @@ This project focuses on designing and implementing a relational database for the
 - ![To Do List](images/todo_list.png)
 
 ## Gantt Chart
-- 
+- ![Gantt Chart](images/gantt_chart.png)
 
 ## NACE Competencies
 - 
