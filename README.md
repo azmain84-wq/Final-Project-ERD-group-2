@@ -31,7 +31,7 @@ This project focuses on designing and implementing a relational database for the
 - ![Gantt Chart](images/gantt_chart.png)
 
 ## NACE Competencies
-- 
+- ![NACE](images/nace.png)
 
 ## Tools and Technologies
 | Tool / Technology   | Purpose                                    |
