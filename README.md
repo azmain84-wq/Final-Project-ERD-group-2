@@ -38,12 +38,8 @@ This project focuses on designing and implementing a relational database for the
 | ------------------- | ------------------------------------------ |
 | SQL Server          | Database creation, storage, and management |
 | JDBC                | Execute stored procedures from Java        |
-| Java                | Application layer for database interaction |
 | JTable              | Display query and workflow output          |
 | SQL Diagram Editor  | Create ERD diagrams                        |
-| Redgate SQL Prompt  | Improve SQL development speed and accuracy |
-| Redgate SQL Doc     | Generate database documentation            |
-| Redgate SQL Compare | Compare and validate database schemas      |
 | GitHub              | Version control and team collaboration     |
 
 ## Backup File
