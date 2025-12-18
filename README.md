@@ -22,7 +22,7 @@ This project focuses on designing and implementing a relational database for the
 - Shiwlee Rahman
 
 ## Group Discussion Link
-- 
+- https://youtu.be/1-peRA5_Xfc
 
 ## To-Do List
 - ![To Do List](images/todo_list.png)
